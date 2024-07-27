@@ -1,3 +1,6 @@
+#Streamlit installation
+pip install streamlit
+
 import streamlit as st
 import pymysql as mysql
 import pandas as pd
@@ -125,3 +128,5 @@ elif selected_option == 'Select Buses':
 
 # Add footer
 st.sidebar.info("Red Bus Application.")
+
+
