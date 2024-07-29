@@ -4,7 +4,6 @@ Data scarping, Database management and Filtering &amp; Analyzing with Streamlit
 **SELENIUM WEB SCRAPING**
 Scraping data from the RedBus website to automate page navigation and scrolling to collect information.
 
-=======================================================================================================================
 
 **STREAMLIT**
 
